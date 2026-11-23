@@ -154,4 +154,4 @@ SwiftNotes aims to give students one organized place to collect study materials,
 
 ## 👤 Author
 
-Created by [@mrharshlodhi-cyber](https://github.com/mrharshlodhi-cyber).
+Created by Harsh Vardhan Singh [@mrharshlodhi-cyber](https://github.com/mrharshlodhi-cyber).
